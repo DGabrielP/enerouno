@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    /* Definir el gradiente vertical */
+    background: linear-gradient(to bottom, #FFD100 0%, gray 33%, black 70%, red 100%);
+    /* Otros estilos opcionales */
+    margin: 0; /* Elimina el margen predeterminado del cuerpo */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+    height: 100vh; /* Establece la altura del cuerpo al 100% de la ventana gráfica */
+  }
