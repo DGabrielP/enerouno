@@ -1,3 +1,2 @@
-
-https://github.com/DGabrielP/enerouno/blob/master/src/assets/Valkyrianpage.PNG
+![image](https://github.com/DGabrielP/enerouno/blob/master/src/assets/Valkyrianpage.PNG)
 
